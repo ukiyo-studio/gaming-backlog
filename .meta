@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "gaming-backlog-frontend": "https://github.com/ukiyo-studio/gaming-backlog-frontend.git",
+    "gaming-backlog-backend": "https://github.com/ukiyo-studio/gaming-backlog-backend.git",
+    "gaming-backlog-app": "https://github.com/ukiyo-studio/gaming-backlog-app.git"
+  }
+}
